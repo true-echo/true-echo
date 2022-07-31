@@ -3,5 +3,5 @@
 
 <img align="left" width="75" height="75" src="https://cdn.discordapp.com/attachments/948257042550886441/1001958759582666772/RP8.png">
 - <b>Lead Project Developer</b> & <b>Author</b> Of RoleplayBot<br>
-Contact Me: [true@roleplaybot.xyz](mailto:true@roleplaybot.xyz)<br>
+<a href="mailto:true@roleplaybot.xyz">Contact Me (via Email)!</a><br>
 For More Information View https://roleplaybot.xyz
