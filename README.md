@@ -1,13 +1,26 @@
-# TrueEcho - Developer
-### Hey, I'm TrueEcho. A Backend Javascript Developer, I am currently working for ``True Development`` (https://true-development.xyz)
+<h1>TrueEcho - Backend Developer</h1>
+Hey, I'm <b>TrueEcho</b>, A self-taught backend Javascript developer.
 
-<img align="left" width="75" height="75" src="https://roleplaybot.xyz/assets/images/Bot/roleplaybot-transparent.png">
-- <b>Lead Project Developer</b> & <b>Author</b> Of RoleplayBot<br>
-Contact Me: true@roleplaybot.xyz<br>
-For More Information View https://roleplaybot.xyz
-<br>
-<br>
-<img align="left" width="75" height="75" src="https://true-development.xyz/true-development.jpg">
-- <b>Owner</b> Of True Development<br>
-For More Information View https://true-development.xyz<br>
-Join our discord https://discord.gg/8XHuWSbb8c
+### Senior Backend Javascript Developer<br>
+<ul style="list-style: line">
+<li>Strong experience in <a href="https://discord.js.org">Discord.JS</a> and <a href="https://expressjs.com/">Express.JS</a>.</li>
+<li>Currently learning Typescript and improving my knowledge daily.</li>
+</ul>
+
+### Junior Frontend Developer
+<ul style="list-style: line">
+<li>Experience working with <a href="https://ejs.co/">EJS</a> and <a href="https://expressjs.com/">React</a>.</li>
+<li>Still learning React with minimal current knowledge.</li>
+</ul>
+
+<hr>
+<h2>Experience</h2>
+
+14/04/2022 -> Current<br>
+Lead Developer & Creator of <a href="https://roleplaybot.xyz">RoleplayBot</a>.
+
+22/02/2023 -> Current<br>
+Sole Developer & Owner of <a href="https://true-development.xyz">True Development</a>.
+
+29/07/2023 -> Current<br>
+Chief Technology Officer & Senior Management at <a href="https://clashdevelopment.com">Clash Development</a>.
