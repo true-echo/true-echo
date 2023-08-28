@@ -22,5 +22,5 @@ Lead Developer & Creator of <a href="https://roleplaybot.xyz">RoleplayBot</a>.
 22/02/2023 -> Current<br>
 Sole Developer & Owner of <a href="https://true-development.xyz">True Development</a>.
 
-29/07/2023 -> Current<br>
+29/07/2023 -> 27/08/2023<br>
 Chief Technology Officer & Senior Management at <a href="https://clashdevelopment.com">Clash Development</a>.
